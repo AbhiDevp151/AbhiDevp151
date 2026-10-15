@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 - 🌱 I’m currently pursuing my **Master of Computer Applications (MCA)** at **NIT Agartala**.
 - 💡 Passionate about building full-stack web applications, exploring 3D web interfaces with **Three.js**, and solving algorithmic problems.
-- 🏆 Solved **500+ problems on LeetCode** and maintain consistent problem-solving streaks on **CodeChef**.
+- 🏆 Solved **600+ problems on LeetCode** and maintain consistent problem-solving streaks on **CodeChef**.
 - ⚡ Fun fact: I love crafting clean, responsive, and intuitive user experiences.
 
 ---
