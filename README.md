@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer & MCA Student at NIT Agartala</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AbhiDevp151&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
